@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hoony443/github.io/movie_app/static/css/main.caddbe61.chunk.css",
+    "main.js": "/hoony443/github.io/movie_app/static/js/main.cfe6cf2d.chunk.js",
+    "main.js.map": "/hoony443/github.io/movie_app/static/js/main.cfe6cf2d.chunk.js.map",
+    "runtime-main.js": "/hoony443/github.io/movie_app/static/js/runtime-main.9aed0b0a.js",
+    "runtime-main.js.map": "/hoony443/github.io/movie_app/static/js/runtime-main.9aed0b0a.js.map",
+    "static/js/2.da4374dc.chunk.js": "/hoony443/github.io/movie_app/static/js/2.da4374dc.chunk.js",
+    "static/js/2.da4374dc.chunk.js.map": "/hoony443/github.io/movie_app/static/js/2.da4374dc.chunk.js.map",
+    "index.html": "/hoony443/github.io/movie_app/index.html",
+    "static/css/main.caddbe61.chunk.css.map": "/hoony443/github.io/movie_app/static/css/main.caddbe61.chunk.css.map",
+    "static/js/2.da4374dc.chunk.js.LICENSE.txt": "/hoony443/github.io/movie_app/static/js/2.da4374dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aed0b0a.js",
+    "static/js/2.da4374dc.chunk.js",
+    "static/css/main.caddbe61.chunk.css",
+    "static/js/main.cfe6cf2d.chunk.js"
+  ]
+}
